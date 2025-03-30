@@ -1,7 +1,7 @@
 export const projects = [
 	{
 		title: "Happy Birthday",
-		description: "Happy Birthday",
+		description: "Happy Birthday Tunmise",
 		src: "bday-cake.gif",
 		link: "",
 		color: "#F8CFE8",
