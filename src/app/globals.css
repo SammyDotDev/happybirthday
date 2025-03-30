@@ -10,7 +10,11 @@
 body{
   margin: 0px;
   font-family: 'Body';
-  margin-bottom: 100vh;
+  background-color: #F8EAF8;
+  background-image: url("/public/images/bgbg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 h2{
